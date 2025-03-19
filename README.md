@@ -18,7 +18,6 @@ Sou um engenheiro de software apaixonado por tecnologia e inovação, com ampla 
 ### **Back-End**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![GoLang](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
@@ -57,4 +56,4 @@ Sou um engenheiro de software apaixonado por tecnologia e inovação, com ampla 
 ---
 > "A tecnologia move o mundo, e a inovação nos impulsiona a criar o futuro."
 
-![Visitantes](https://visitor-badge.glitch.me/badge?page_id=SeuUsuario.SeuUsuario)
+![Visitantes](https://visitor-badge.glitch.me/badge?page_id=denis-garcia-bonafe.denis-garcia-bonafe)
