@@ -1,3 +1,5 @@
+![Github Banner](banner_github.jpeg)
+
 # Olá, eu sou Dênis Bonafé! 👋
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=22&center=true&vCenter=true&width=700&lines=Engenheiro+de+Software+apaixonado+por+tecnologia;Especialista+em+Cloud+e+Microsserviços;Experiência+em+Engenharia+de+Dados+e+DevOps;Líder+técnico+com+foco+em+inovação+e+performance)
