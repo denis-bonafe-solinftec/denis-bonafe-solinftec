@@ -23,7 +23,6 @@ Sou um engenheiro de software apaixonado por tecnologia e inovação, com ampla 
 
 ### **Engenharia de Dados**
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
 
 ### **Cloud e DevOps**
