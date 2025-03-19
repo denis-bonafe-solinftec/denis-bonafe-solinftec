@@ -45,14 +45,9 @@ Sou um engenheiro de software apaixonado por tecnologia e inovação, com ampla 
 - **FMX Soluções (2017 - 2018)** - Desenvolvedor GeneXus
 - **Eorbital Sistemas (2012 - 2017)** - Programador Web
 
-## 📊 Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=denis-garcia-bonafe&show_icons=true&theme=radical)
-
 ## 📌 Contato e Redes
 - 📧 **Email:** denisgarcia.dev@gmail.com
 - 🔗 **LinkedIn:** [denis-garcia-bonafe](https://www.linkedin.com/in/denis-garcia-bonafe/)
 
 ---
 > "A tecnologia move o mundo, e a inovação nos impulsiona a criar o futuro."
-
-![Visitantes](https://visitor-badge.glitch.me/badge?page_id=denis-garcia-bonafe.denis-garcia-bonafe)
